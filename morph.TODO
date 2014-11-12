@@ -1,0 +1,61 @@
+FlipSide Todo:
+
+  UI Design:
+    ☐ Create flow diagram
+    ☐ Create wireframe
+    ☐ Create mockup
+
+  Install Dev Environment:
+    ✔ Install IDE/dotfiles/utility scripts @done (14-11-11 13:54)
+    ✔ Install version control - git, svn, etc @done (14-11-11 13:54)
+  
+  Install Dev Environment Dependencies:
+    ✔ Install node @done (14-11-12 14:45)
+    ✔ Install grunt-cli @done (14-11-12 14:45)
+    ☐ Install closure compiler
+    ☐ Install bower
+    ☐ Install ruby
+    ☐ Install sass
+    ☐ Install java
+    ☐ Install selenium server
+    ☐ Install chromedriver
+
+  Research Spikes:
+    ☐ travis-ci
+    ☐ react.js/flux
+    ☐ foundation
+
+  Early Documentation for Wiki:
+    ☐ Tech stack discussion
+    ☐ Tech stack list
+    ☐ Dev environment dependencies list & install instructions
+    ☐ Dev scripts list & install instructions
+    ☐ File structure discussion
+    ☐ API discussion
+
+  Build Process:
+    ☐ Create package.json
+      ☐ Install grunt
+      ☐ Install load-grunt-tasks
+    ☐ Create Gruntfile
+      ☐ Install intern
+      ☐ Install grunt-contrib-jshint
+      ☐ Install grunt-bumpx
+      ☐ Install grunt-version
+      ☐ Install grunt-contrib-watch
+      ☐ Install grunt-jsdoc
+      ☐ Install grunt-closure-compiler
+    ☐ Create base directory structure
+    ☐ Integrate intern into grunt test
+    ☐ Integrate google closure into grunt and test
+    ☐ Integrate JSHint
+    ☐ Integrate JSDoc
+
+  Build Client:
+    ☐ Create index.html
+    ☐ Install dependencies:
+      ☐ Browserify
+      ☐ jQuery
+      ☐ Lo-Dash
+      ☐ Foundation
+      ☐ SegmentIO analaytics

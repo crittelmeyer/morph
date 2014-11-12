@@ -1,0 +1,25 @@
+{
+  "name": "morph",
+  "version": "0.0.0",
+  "description": "Engine for consuming dashboard config files and subsequently loading and rendering the widgets described therein.",
+  "author": "Chris Rittelmeyer <chris.rittelmeyer@brickstream.com>",
+  "contributors": [
+    "Matthew Sterrit <matthew.sterritt@brickstream.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/crittelmeyer/morph.git"
+  },
+  "engine": "node 0.10.x",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bumpx": "^0.2.1",
+    "grunt-closure-compiler": "0.0.21",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jsdoc": "^0.5.7",
+    "grunt-version": "^0.3.0",
+    "intern": "^2.1.1",
+    "load-grunt-tasks": "^1.0.0"
+  }
+}
